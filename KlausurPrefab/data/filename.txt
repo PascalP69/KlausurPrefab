@@ -1,0 +1,10 @@
+Marke: NewCar0 Farbe: Color [Black] Power: 97 Geschwindigkeit: 0
+Marke: NewCar1 Farbe: Color [Black] Power: 84 Geschwindigkeit: 0
+Marke: NewCar2 Farbe: Color [Black] Power: 82 Geschwindigkeit: 0
+Marke: NewCar3 Farbe: Color [Black] Power: 78 Geschwindigkeit: 0
+Marke: NewCar4 Farbe: Color [Black] Power: 53 Geschwindigkeit: 0
+Marke: NewCar5 Farbe: Color [Black] Power: 58 Geschwindigkeit: 0
+Marke: NewCar6 Farbe: Color [Black] Power: 57 Geschwindigkeit: 0
+Marke: NewCar7 Farbe: Color [Black] Power: 61 Geschwindigkeit: 0
+Marke: NewCar8 Farbe: Color [Black] Power: 96 Geschwindigkeit: 0
+Marke: NewCar9 Farbe: Color [Black] Power: 69 Geschwindigkeit: 0
